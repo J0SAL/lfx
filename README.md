@@ -20,6 +20,7 @@ The test suite aims to validate the behavior of the Kyverno policy lfx-add-label
 ## Expected Behavior
 
 The expected behavior of the test is as follows:
+
 `01-policy.yaml:`
 
 - The Kyverno policy _lfx-add-labels_ is successfully applied.
