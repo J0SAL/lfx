@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: lfx-configmap2
+  namespace: joy
+data:
+  key1: value1
